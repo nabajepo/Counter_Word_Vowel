@@ -1,2 +1,1 @@
 #This is the first programm for python but it will be more
-#Sorry to day i was learning Prolog language and Scheme 
